@@ -1,5 +1,4 @@
-
-:START_ID(ARTICLE_ID),:END_ID(VENUE_ID),:TYPE
+:START_ID(AUTHOR_ID),:END_ID(VENUE_ID),:TYPE
 01f1d231-80ae-4cce-b56c-9d821e0924d0,international conference on software engineering,ARTICLE_VENUE
 0e6ce7a9-6456-437b-9f3f-4bda192a6fae,international conference on software engineering,ARTICLE_VENUE
 10c7185a-f2b7-4810-b1d6-1340c2949922,international conference on software engineering,ARTICLE_VENUE
